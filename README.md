@@ -1,9 +1,7 @@
-# hello-world
-Hello World Repository for Python Tutorial
+# Python-Basics
+This Repository is for Python Tutorial.
 
 [Link to W3Schools Python Tutorial](https://www.w3schools.com)
-
-This repository serves as an example project that is developed incrementally in the W3Schools Python Tutorial.
 
 ## Introduction
 The "hello-world" repository is designed to complement the Python Tutorial hosted on W3Schools. It provides practical examples and exercises that align with the content discussed in the tutorial.
